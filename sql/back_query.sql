@@ -1,0 +1,1 @@
+﻿insert into pessoa values(nextval('seq_pes'), 'gugifllkdfjg',28)
