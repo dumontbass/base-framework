@@ -1,0 +1,500 @@
+
+<log>
+  <time>2012-06-29 13:27:21</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:27:22</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:27:39</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:27:42</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:27:45</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:27:47</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:28:52</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:28:54</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:00</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:01</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:14</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:15</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:20</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:21</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:22</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:23</time>
+  <message>MySql select nome,id from tratamento</message>
+</log>
+<log>
+  <time>2012-06-29 13:29:47</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:30:14</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:30:17</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:30:25</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:30:26</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:30:27</time>
+  <message>MySql select nome,id from tratamentos</message>
+</log>
+<log>
+  <time>2012-06-29 13:36:34</time>
+  <message>MySql select nome,id from tratamentos where (id = 1)</message>
+</log>
+<log>
+  <time>2012-06-29 13:37:25</time>
+  <message>MySql select nome,id from tratamentos where (nome like %a%)</message>
+</log>
+<log>
+  <time>2012-06-29 13:37:56</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a%')</message>
+</log>
+<log>
+  <time>2012-06-29 13:38:27</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-06-29 13:39:00</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-06-29 13:43:01</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-06-29 13:43:03</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-06-29 14:08:19</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-06-29 18:16:52</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:14:55</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:32:04</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:32:06</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:32:38</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:32:43</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:32:47</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:38:37</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:43:47</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:44:58</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:45:00</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:45:01</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:45:04</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:45:09</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:45:42</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:46:57</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:47:33</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:48:32</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 22:49:41</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:13:15</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:20:33</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:26:52</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:48:05</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:48:23</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:48:27</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-04 23:48:43</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 00:30:33</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 00:46:09</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 00:46:11</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 00:47:33</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 00:47:35</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 02:10:42</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 02:29:48</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 15:02:32</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 15:04:39</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%a')</message>
+</log>
+<log>
+  <time>2012-07-05 15:06:01</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A')</message>
+</log>
+<log>
+  <time>2012-07-05 15:06:16</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%O')</message>
+</log>
+<log>
+  <time>2012-07-05 15:06:57</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A')</message>
+</log>
+<log>
+  <time>2012-07-05 15:07:35</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A')</message>
+</log>
+<log>
+  <time>2012-07-05 15:07:41</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:08:50</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:08:56</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:01</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:02</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:08</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:12</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:18</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Ajf')</message>
+</log>
+<log>
+  <time>2012-07-05 15:09:26</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A')</message>
+</log>
+<log>
+  <time>2012-07-05 18:39:44</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Tyuo')</message>
+</log>
+<log>
+  <time>2012-07-05 18:39:47</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Tyuo')</message>
+</log>
+<log>
+  <time>2012-07-05 18:40:11</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%I')</message>
+</log>
+<log>
+  <time>2012-07-05 18:41:47</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A \'  order by id  \'')</message>
+</log>
+<log>
+  <time>2012-07-05 18:42:36</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A \'  or 1 order by id  \'')</message>
+</log>
+<log>
+  <time>2012-07-05 18:42:43</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A \'  or 1 order by id  \'')</message>
+</log>
+<log>
+  <time>2012-07-05 18:43:26</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%\'')</message>
+</log>
+<log>
+  <time>2012-07-05 18:43:43</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A
+')</message>
+</log>
+<log>
+  <time>2012-07-05 18:43:52</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%A')</message>
+</log>
+<log>
+  <time>2012-07-05 18:45:56</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 18:46:24</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 20:44:40</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 20:59:30</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%12345')</message>
+</log>
+<log>
+  <time>2012-07-05 21:11:52</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 21:12:12</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 21:21:19</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 21:21:39</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 21:32:16</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-05 22:00:01</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 08:07:25</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 08:10:44</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:20:51</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:21:37</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:30:06</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:31:10</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:33:23</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:33:40</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 10:35:37</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 11:01:06</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 12:47:20</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-06 22:41:20</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-07 12:17:19</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-07 12:21:46</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-07 12:21:52</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Hchjg')</message>
+</log>
+<log>
+  <time>2012-07-07 12:21:57</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Hchjg')</message>
+</log>
+<log>
+  <time>2012-07-07 17:47:42</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-07 17:48:11</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-08 04:14:16</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-08 04:14:30</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%F rt iu')</message>
+</log>
+<log>
+  <time>2012-07-08 04:14:33</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%F rt iu')</message>
+</log>
+<log>
+  <time>2012-07-08 04:15:23</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%`
+')</message>
+</log>
+<log>
+  <time>2012-07-08 04:16:12</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%\'')</message>
+</log>
+<log>
+  <time>2012-07-08 17:42:03</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+<log>
+  <time>2012-07-10 11:41:32</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Gf fh h')</message>
+</log>
+<log>
+  <time>2012-07-10 11:41:40</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%Bgfg')</message>
+</log>
+<log>
+  <time>2012-08-22 22:48:02</time>
+  <message>MySql select nome,id from tratamentos where (nome like '%')</message>
+</log>
+
