@@ -1,0 +1,7 @@
+ErrorDocument 400 /pages/file.html
+ErrorDocument 401 /pages/file.html
+ErrorDocument 403 /pages/file.html
+ErrorDocument 404 <h1>Erro</h1>
+ErrorDocument 500 /pages/file.html
+
+Options -Indexes 
